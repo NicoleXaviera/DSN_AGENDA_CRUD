@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "Nicole Arguedas",
+        "numero": "809-312-5342",
+        "email": "johnny45@tecsup.edu.pe"
+    },
+    {
+        "id": 1,
+        "nombre": "Xaviera Ugarriza",
+        "numero": "849-574-9123",
+        "email": "King@tecsup.edu.pe"
+    },
+    {
+        "id": 2,
+        "nombre": "Jaime Farfan",
+        "numero": "809-967-2346",
+        "email": "Hjoel20@tecsup.edu.pe"
+    }
+]
